@@ -129,14 +129,6 @@ run_script() {
 
     echo -e "${GREEN} 
                   
-                                                                    
-                ╔═══════ TC Configuration - Standard Edition ═══════╗
-                ║                                                         ║
-                ║  ${LIGHT_PURPLE}•                               ${GREEN}║
-                ║  ${YELLOW}                    ${GREEN}║
-                ║  ${CYAN}• Version: V0.0.5 (Try)                              ${GREEN}║
-                ║                                                         ║
-                ╚════════════════════════════════════════════════════════╝
 
     ${NC}"
 
@@ -320,15 +312,6 @@ run_script() {
 
     echo -e "${GREEN}Script execution completed. Advanced network optimization is now in place.${NC}"
     echo -e "${YELLOW}
-            ╔═══════════════ Premium TC Optimizer ═══════════════╗
-            ║                                                              ║
-            ║  ${LIGHT_PURPLE}• Own Custom Config:                                      ${YELLOW}║
-            ║    ${GREEN}[${YELLOW}Sysctl${GREEN}]+[${YELLOW} Network${GREEN}]+[${YELLOW}interface${GREEN}]+[${YELLOW} Customization TC${GREEN}]              ${YELLOW}║
-            ║                                                              ║
-            ║  ${LIGHT_PURPLE}•                                ${YELLOW}║
-            ║    ${GREEN}                                           ${YELLOW}║
-            ║                                                              ║
-            ╚══════════════════════════════════════════════════════════════╝
     ${NC}"
 }
 
