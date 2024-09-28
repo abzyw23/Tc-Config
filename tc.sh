@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# Colors for output
-GREEN='\033[0;32m'
-RED='\033[0;31m'
-LIGHT_PURPLE='\033[1;35m'
-YELLOW='\033[1;33m'
-NC='\033[0m' # No Color
 
 # Function to calculate optimal values with enhanced allocation to CLASS_100, CLASS_200, and CLASS_300
 calculate_optimal_values() {
