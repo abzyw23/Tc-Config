@@ -133,19 +133,13 @@ run_script() {
         return 0
     }
 
-    echo -e "${GREEN}
-     ██████╗██████╗ ███████╗ █████╗ ██╗  ██╗    ██╗  ██╗██████╗  █████╗ ██╗   ██╗
-     ██╔═══╝██╔══██╗██╔════╝██╔══██╗██║ ██╔╝    ╚██╗██╔╝██╔══██╗██╔══██╗╚██╗ ██╔╝
-     ██████╗██████╔╝█████╗  ███████║█████╔╝      ╚███╔╝ ██████╔╝███████║ ╚████╔╝ 
-     ██╔═══╝██╔══██╗██╔══╝  ██╔══██║██╔═██╗      ██╔██╗ ██╔══██╗██╔══██║  ╚██╔╝  
-     ██║    ██║  ██║███████╗██║  ██║██║  ██╗    ██╔╝ ██╗██║  ██║██║  ██║   ██║   
-     ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+    echo -e "${GREEN} 
                   
                                                                     
                 ╔═══════ FreakXray TC Configuration - Standard Edition ═══════╗
                 ║                                                         ║
-                ║  ${LIGHT_PURPLE}• Telegram: @FreakXRAY                               ${GREEN}║
-                ║  ${YELLOW}• Premium Configuration: @FReak_4L                    ${GREEN}║
+                ║  ${LIGHT_PURPLE}•                               ${GREEN}║
+                ║  ${YELLOW}                    ${GREEN}║
                 ║  ${CYAN}• Version: V0.0.5 (Try)                              ${GREEN}║
                 ║                                                         ║
                 ╚════════════════════════════════════════════════════════╝
@@ -337,8 +331,8 @@ run_script() {
             ║  ${LIGHT_PURPLE}• Own Custom Config:                                      ${YELLOW}║
             ║    ${GREEN}[${YELLOW}Sysctl${GREEN}]+[${YELLOW} Network${GREEN}]+[${YELLOW}interface${GREEN}]+[${YELLOW} Customization TC${GREEN}]              ${YELLOW}║
             ║                                                              ║
-            ║  ${LIGHT_PURPLE}• Dm to Telegram User id:                               ${YELLOW}║
-            ║    ${GREEN}t.me/FReak_4L                                           ${YELLOW}║
+            ║  ${LIGHT_PURPLE}•                                ${YELLOW}║
+            ║    ${GREEN}                                           ${YELLOW}║
             ║                                                              ║
             ╚══════════════════════════════════════════════════════════════╝
     ${NC}"
