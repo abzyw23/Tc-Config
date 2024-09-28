@@ -102,8 +102,8 @@ display_help() {
     echo -e "${GREEN}Usage: tc.sh [OPTION]${NC}"
     echo -e "Options:"
     echo -e "  ${YELLOW}-s, --start${NC}    Run script TC configuration"
-    echo -e "  ${YELLOW}-p, --premium${NC}  For premium configuration DM telegram to: @Freak_4L"
-    echo -e "  ${YELLOW}-c, --channel${NC}  Channel in telegram: @FreakXray"
+    echo -e "  ${YELLOW}-p, --premium${NC}"
+    echo -e "  ${YELLOW}-c, --channel${NC} "
     echo -e "  ${YELLOW}-h, --help${NC}     Display this help message"
     echo -e "  ${YELLOW}-d, --delete${NC}   Delete TC configuration"
 }
@@ -130,7 +130,7 @@ run_script() {
     echo -e "${GREEN} 
                   
                                                                     
-                ╔═══════ FreakXray TC Configuration - Standard Edition ═══════╗
+                ╔═══════ TC Configuration - Standard Edition ═══════╗
                 ║                                                         ║
                 ║  ${LIGHT_PURPLE}•                               ${GREEN}║
                 ║  ${YELLOW}                    ${GREEN}║
@@ -320,7 +320,7 @@ run_script() {
 
     echo -e "${GREEN}Script execution completed. Advanced network optimization is now in place.${NC}"
     echo -e "${YELLOW}
-            ╔═══════════════ Premium FreakXray TC Optimizer ═══════════════╗
+            ╔═══════════════ Premium TC Optimizer ═══════════════╗
             ║                                                              ║
             ║  ${LIGHT_PURPLE}• Own Custom Config:                                      ${YELLOW}║
             ║    ${GREEN}[${YELLOW}Sysctl${GREEN}]+[${YELLOW} Network${GREEN}]+[${YELLOW}interface${GREEN}]+[${YELLOW} Customization TC${GREEN}]              ${YELLOW}║
@@ -343,10 +343,10 @@ case "$1" in
         run_script
         ;;
     -p|--premium)
-        echo -e "${YELLOW}For premium configuration, please DM on Telegram: @Freak_4L${NC}"
+        echo -e "${YELLOW}For"
         ;;
     -c|--channel)
-        echo -e "${YELLOW}Join our Telegram channel: @FreakXray${NC}"
+        echo -e "${YELLOW}Join"
         ;;
     -d|--delete)
         echo -e "${YELLOW}Deleting TC configuration...${NC}"
